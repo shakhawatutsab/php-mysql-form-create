@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+}
+
+.error {
+	color: red;
+	font-style: italic;
+}
+
+.success {
+	color: green;
+	font-style: italic;
+}
+
+.registration {
+	width: 60%;
+	margin: 0 auto;
+	border: 1px solid black;
+	margin-top: 30px;
+	padding: 20px;
+}
+.table td {
+	border: 1px solid black;
+
+}
